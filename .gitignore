@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+~$*.xlsx
+*.Rhistory
+.Rproj.user/
+
+# Environment variables / secrets (none needed for this project currently,
+# kept as a precaution in case local paths or keys are added later)
+.env
+.env.local
